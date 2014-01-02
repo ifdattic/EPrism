@@ -1,0 +1,19 @@
+{
+    "name": "ifdattic/eprism",
+    "description": "Yii extension which adds Prism syntax highlighter",
+    "keywords": ["yii", "extension", "prism", "syntax", "highlighter"],
+    "homepage": "https://github.com/ifdattic/EPrism",
+    "type": "yii-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrius Marcinkevicius (Andrew M.)",
+            "email": "andrew.web@ifdattic.com",
+            "homepage": "http://ifdattic.com",
+            "role": "Programmer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": "dev-master"
+    }
+}
